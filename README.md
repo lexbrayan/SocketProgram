@@ -4,7 +4,7 @@ HOW TO RUN
 
 1)Code was written in python and will require a. python 3 interpreter to run
 
-2)Open Terminal or command line, cd into the directory and run the command “python (filename)” i.e. pythonTCPwebservery.py
+2)Open Terminal or command line, cd into the directory and run the command “python (filename)” i.e. python TCPwebservery.py
 
 3)After running that command, a message will appear on screen
 
